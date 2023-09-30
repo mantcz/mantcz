@@ -5,6 +5,7 @@
 [X - Twitter](https://twitter.com/_mantcz)  
 [mantcz.com](https://www.mantcz.com/)  
 [dev.to](https://dev.to/mantcz)  
+[Medium](https://medium.com/@mantcz)  
 
 ### ⚡ Fun facts:
 🛫 I used to fly [gliders](https://www.youtube.com/@michaelantczak6343/videos)   
