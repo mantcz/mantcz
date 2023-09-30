@@ -23,6 +23,31 @@
 2. [Rust](https://www.rust-lang.org/)
 3. [Kubernetes](https://kubernetes.io/)
 
+### 🎤 My talks
+
+- [Lightning Talk: Be Reasonable! by Michael Antczak
+  ](https://www.youtube.com/watch?v=2PxVeQ1KGf4)
+
+### 🗂️ I'm a community organiser
+
+#### [React Edinburgh Meetup](https://www.meetup.com/react-edinburgh/), Nov 2018 — Feb 2020
+
+- 1000+ members
+- [Professional photography](https://www.meetup.com/react-edinburgh/photos/)
+- [Professional video recordings](https://www.youtube.com/@reactedinburgh4262)
+- Handling social media on [Twitter](https://twitter.com/ReactEdinburgh)
+- Organising speakers from all over the Europe (Barcelona, Berlin, Dublin)
+- 9 events in 2019 with up to 150 attendees per event
+
+#### [Node.js Edinburgh Meetup](https://www.meetup.com/nodejs-edinburgh/), May 2017 — Nov 2019
+
+- 650+ members
+- [Professional photography](https://www.meetup.com/nodejs-edinburgh/photos/29769817/)
+- [Professional video recordings](https://www.youtube.com/@nodejsedinburgh9419)
+- Handling social media on [Twitter](https://twitter.com/NodejsEdinburgh)
+- 4 events in 2019
+- 10+ workshops
+
 ### ⚡ Fun facts:
 
 🛫 I used to fly [gliders](https://youtu.be/VHpUfRXmRXE?si=5C-w7FuAtpqilBjJ&t=248)\
