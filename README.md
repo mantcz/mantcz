@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-### 📫 How to reach me:   
+### 📫 How to find me:   
 [LinkedIn](https://www.linkedin.com/in/mantcz/)  
 [X - Twitter](https://twitter.com/_mantcz)  
 [mantcz.com](https://www.mantcz.com/)  
+[dev.to](https://dev.to/mantcz)  
 
 ### ⚡ Fun facts:
 🛫 I used to fly [gliders](https://www.youtube.com/@michaelantczak6343/videos)   
