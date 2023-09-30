@@ -11,6 +11,7 @@
 🛫 I used to fly [gliders](https://youtu.be/VHpUfRXmRXE?si=5C-w7FuAtpqilBjJ&t=248)   
 🏀 I love [1990s NBA Basketball](https://www.youtube.com/watch?v=E7mMhPNpSiM)  
 ♟️ I am addicted to 1min chess on [Lichess](https://lichess.org/)  
+⛷️ I love skiing
 <!--
 **mantcz/mantcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
