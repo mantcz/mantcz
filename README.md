@@ -6,8 +6,9 @@
 [mantcz.com](https://www.mantcz.com/)  
 
 ### ⚡ Fun facts:
-🛫 I used to fly [gliders](https://www.youtube.com/@michaelantczak6343/videos).   
+🛫 I used to fly [gliders](https://www.youtube.com/@michaelantczak6343/videos)   
 🏀 I love 1990s NBA Basketball  
+♟️ I am addicted to 1min chess on [Lichess](https://lichess.org/)  
 <!--
 **mantcz/mantcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
