@@ -8,7 +8,7 @@
 [Medium](https://medium.com/@mantcz)  
 
 ### ⚡ Fun facts:
-🛫 I used to fly [gliders](https://www.youtube.com/@michaelantczak6343/videos)   
+🛫 I used to fly [gliders](https://youtu.be/VHpUfRXmRXE?si=5C-w7FuAtpqilBjJ&t=248)   
 🏀 I love 1990s NBA Basketball  
 ♟️ I am addicted to 1min chess on [Lichess](https://lichess.org/)  
 <!--
