@@ -14,8 +14,9 @@
 2. [Node.js](https://nodejs.org/en)
 3. [PostgreSQL](https://www.postgresql.org/)
 4. [AWS](https://aws.amazon.com/)
-5. DevOps
-6. GitOps
+5. [Docker](https://www.docker.com/)
+6. DevOps
+7. GitOps
 
 ### 🌱 I’m currently learning
 
