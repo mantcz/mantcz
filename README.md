@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
+### 📫 How to reach me:   
+[LinkedIn](https://www.linkedin.com/in/mantcz/)  
+[X - Twitter](https://twitter.com/_mantcz)  
+[mantcz.com](https://www.mantcz.com/)  
+
+### ⚡ Fun facts:
+🛫 I used to fly [gliders](https://www.youtube.com/@michaelantczak6343/videos).   
+🏀 I love 1990s NBA Basketball  
 <!--
 **mantcz/mantcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
