@@ -7,7 +7,7 @@
 3. [mantcz.com](https://www.mantcz.com/)
 4. [Medium](https://medium.com/@mantcz)
 5. [dev.to](https://dev.to/mantcz)
-6. [goodreads](goodreads.com/mantcz)
+6. [goodreads](https://goodreads.com/mantcz)
 
 ### 🔭 I’m currently working with
 
@@ -56,7 +56,7 @@
 🏀 I love [1990s NBA Basketball](https://www.youtube.com/watch?v=E7mMhPNpSiM)\
 ♟️ I am addicted to 1min chess on [Lichess](https://lichess.org/)\
 ⛷️ I love skiing\
-📚 I enjoy good book
+📚 I enjoy [a good book](https://goodreads.com/mantcz)
 
 <!--
 **mantcz/mantcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
