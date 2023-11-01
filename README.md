@@ -27,8 +27,12 @@
 
 ### 🎤 My talks
 
-- [Lightning Talk: Be Reasonable! by Michael Antczak
-  ](https://www.youtube.com/watch?v=2PxVeQ1KGf4)
+1. [Lightning Talk: Be Reasonable!](https://www.youtube.com/watch?v=2PxVeQ1KGf4) at React Meetup
+1. [How To Become A Great Developer - Reminiscences of a Console Operator](https://twitter.com/_mantcz/status/1174013317519683584) at Lloyds Banking Group at ConnecTech conference - 18 September 2019
+
+### 💼 My workshops
+1. [Composing screens in React Native projects](https://twitter.com/_mantcz/status/1174013336939368448) at Lloyds Banking Group at ConnecTech conference - 18 September 2019
+2. [Mobile App Development with JavaScript and React Native](http://scotlandjs.com/workshops) at ScotlandJS Conference - July 2018
 
 ### 🗂️ I'm a community organiser
 
