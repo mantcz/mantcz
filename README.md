@@ -19,11 +19,11 @@
 6. DevOps
 7. GitOps
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently focusing on
 
 1. [Go](https://go.dev/)
-2. [Rust](https://www.rust-lang.org/)
-3. [Kubernetes](https://kubernetes.io/)
+2. [Kubernetes](https://kubernetes.io/)
+3. [Rust](https://www.rust-lang.org/)
 
 ### 🎤 My talks
 
