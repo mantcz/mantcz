@@ -1,5 +1,7 @@
 ![Welcome](welcome.svg)
 
+I am running [Compiled AI]([https://cmpld.ai](https://cmpld.ai/?utm_source=github&utm_medium=readme&utm_campaign=mantcz)) newsletter. Sign up today!
+
 ### 📫 How to find me:
 
 1. [LinkedIn](https://www.linkedin.com/in/mantcz/)
